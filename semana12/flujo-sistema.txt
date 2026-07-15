@@ -1,0 +1,10 @@
+Flujo del sistema - Petición 3 Clics
+- Un ciudadano entra a la plataforma y crea una nueva petición.
+- La petición se guarda automáticamente en la base de datos del sistema.
+- Otros ciudadanos pueden ver la petición y darle su apoyo con un clic.
+- El sistema contabiliza los apoyos recibidos en tiempo real.
+- Cuando la petición alcanza un número mínimo de apoyos, el sistema genera un documento 
+PDF con la información.
+- El PDF se envía por correo electrónico o se comparte en Telegram para notificar a la 
+comunidad.
+- La petición queda lista para ser entregada a la autoridad correspondiente.

@@ -1,0 +1,4 @@
+Evento: se genera un documento PDF de una petición.
+Mensaje: “Se ha creado el documento oficial de la petición X”.
+Información que no debe enviarse: nombres completos de los firmantes, datos de contacto, 
+información privada o confidencial.

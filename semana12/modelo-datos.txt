@@ -1,0 +1,14 @@
+Modelo de datos - Petición en 3 Clics
+Entidad: Usuario
+id: identificador unico del usuario.
+nombre: nombre del ciudadano.
+email: correo electrónico de contacto.
+fecha_registro: dia en que se unio a la plataforma. 
+Sirve para identificar y gestionar a cada persona que participa en el sistema.
+
+Entidad: Comentario
+id: identificador unico del usuario.
+usuario_id: referencia al usuario que escribió el comentario.
+texto: contenido del comentario.
+fecha: día en que se publicó.
+Sirve para almacenar las opiniones o aportes que los ciudadanos hacen sobre una causa.
